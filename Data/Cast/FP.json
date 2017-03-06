@@ -1,0 +1,22 @@
+{
+	"cards": [
+		{
+			"id": 1,
+			"name": "Haruma Kaneda",
+			"nick": "friend",
+			"alias": "n1",
+			"attribute": "MUSIC",
+			"origin": "Friend Point Gacha",
+			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1452851666.jpg"
+		},
+    {
+			"id": 2,
+			"name": "Takatomo Kaneko",
+			"nick": "friend",
+			"alias": "n1",
+			"attribute": "MUSIC",
+			"origin": "Friend Point Gacha",
+			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1447320455.jpg"
+		},
+    ]
+}
