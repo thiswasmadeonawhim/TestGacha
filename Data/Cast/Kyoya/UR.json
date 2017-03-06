@@ -1,0 +1,26 @@
+{
+	"cards": [
+		{
+			"id": 1,
+			"name": "Kyoya Asahina ～AUDITION～",
+			"nick": "kyoya",
+			"alias": "ur1",
+			"leader": "Performance up greatly for MUSIC cast members",
+			"skill": "Every 8 markers, an increase of score by 3000",
+			"attribute": "MUSIC",
+			"origin": "「The AUDITION」Pick-up Gacha",
+			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1475048635.jpg"
+		},
+    {
+			"id": 2,
+			"name": "Kyoya Asahina ～AUDITION～",
+			"nick": "kyoya",
+			"alias": "ur1",
+			"leader": "Performance up greatly for MUSIC cast members",
+			"skill": "Every 8 markers, an increase of score by 3000",
+			"attribute": "MUSIC",
+			"origin": "「The AUDITION」Pick-up Gacha",
+			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1479988663.jpg"
+		},
+    ]
+}
