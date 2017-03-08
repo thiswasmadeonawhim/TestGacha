@@ -18,5 +18,113 @@
 			"origin": "Friend Point Gacha",
 			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1447320455.jpg"
 		},
+    {
+			"id": 3,
+			"name": "Kota Tanihara",
+			"nick": "friend",
+			"alias": "n1",
+			"attribute": "DANCE",
+			"origin": "Friend Point Gacha",
+			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1453902073001.jpg"
+		},
+    {
+			"id": 4,
+			"name": "Mikuji Uranai",
+			"nick": "friend",
+			"alias": "n1",
+			"attribute": "MUSIC",
+			"origin": "Friend Point Gacha",
+			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1452850722.jpg"
+		},
+    {
+			"id": 5,
+			"name": "Rei Hanada",
+			"nick": "friend",
+			"alias": "n1",
+			"attribute": "DANCE",
+			"origin": "Friend Point Gacha",
+			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1443926380.jpg"
+		},
+    {
+			"id": 6,
+			"name": "Koki Funakoshi",
+			"nick": "friend",
+			"alias": "n1",
+			"attribute": "DANCE",
+			"origin": "Friend Point Gacha",
+			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1452850679.jpg"
+		},
+    {
+			"id": 7,
+			"name": "Daisuke Ebata",
+			"nick": "friend",
+			"alias": "n1",
+			"attribute": "STORY",
+			"origin": "Friend Point Gacha",
+			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1452850699.jpg"
+		},
+    {
+			"id": 8,
+			"name": "Kiyoshi Homura",
+			"nick": "friend",
+			"alias": "n1",
+			"attribute": "DANCE",
+			"origin": "Friend Point Gacha",
+			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1447320609.jpg"
+		},
+    {
+			"id": 9,
+			"name": "Toru Aiki",
+			"nick": "friend",
+			"alias": "n1",
+			"attribute": "DANCE",
+			"origin": "Friend Point Gacha",
+			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1447320336.jpg"
+		},
+    {
+			"id": 10,
+			"name": "Hosuke Shiratori",
+			"nick": "friend",
+			"alias": "n1",
+			"attribute": "STORY",
+			"origin": "Friend Point Gacha",
+			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1452850636.jpg"
+		},
+    {
+			"id": 11,
+			"name": "Moto Kai",
+			"nick": "friend",
+			"alias": "n1",
+			"attribute": "MUSIC",
+			"origin": "Friend Point Gacha",
+			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1452851681.jpg"
+		},
+    {
+			"id": 12,
+			"name": "Shinji Monoma",
+			"nick": "friend",
+			"alias": "n1",
+			"attribute": "STORY",
+			"origin": "Friend Point Gacha",
+			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1453111482.jpg"
+		},
+    {
+			"id": 13,
+			"name": "Takuo Mitsuda",
+			"nick": "friend",
+			"alias": "n1",
+			"attribute": "MUSIC",
+			"origin": "Friend Point Gacha",
+			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1452850659.jpg"
+		},
+    {
+			"id": 14,
+			"name": "Taizo Nezo",
+			"nick": "friend",
+			"alias": "n1",
+			"attribute": "STORY",
+			"origin": "Friend Point Gacha",
+			"img": "https://cdn.img-conv.gamerch.com/img.gamerch.com/yumecast/wikidb_img/1452851649.jpg"
+		},
     ]
 }
